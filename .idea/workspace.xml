@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="5.11.23 new update">
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/Array_Demo/Array1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ArithmeticDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/AssignmentDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/BitwiseOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/BreakDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/CallCenterAssign9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/CapitalSmall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/CircleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ConditionalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Datatype.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/DigitSpelling2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/DigitSpellingAssig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/DoWhileLoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/EvenOddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/FactorialNumAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ForLoopAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ForLoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/IncrementDecrement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/InputDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/InstallmentCalclution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/JavaLoverAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/LOOP1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/LogicalANDAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Love.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/MathClassDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/MaxMinChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/MultipleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/OddNumAddtionAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/PositiveDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Serise1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Serise2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/TemperatureDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/TemperatureDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/TriangleDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/UnaryDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/UpperLowerCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/VoterChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/VowelConsonantCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/VowelConsonantDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/WhileLoopDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByReference.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByReferenceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByValurTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Class_Object_Method/School.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Class_Object_Method/SchoolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/Constructor_Overloding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/Teacher_Overloding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/DebugDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Encapsulation/EncapsulationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Encapsulation/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Factorial/RecursionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Factorial/RecursionDemoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/PrivateMember/Person1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/PrivateMember/Teacher1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/PrivateMember/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/MathClass/MathDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overloading/MethodOverload.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overloading/OverloadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/MethodOverriding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey3/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey3/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey3/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey_Method/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey_Method/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey_Method/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Super_Keyword/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Super_Keyword/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Super_Keyword/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/ProblemSolving1/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/ProblemSolving1/BoxVolume.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Returning_Value_Method/ReturnTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Returning_Value_Method/ReturningValueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Block/StaticBlock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/CareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/StudentTest_StaticVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/Student_StaticVariable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Method/StaticMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Method/StaticMethodTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Super_Keyword/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Super_Keyword/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Super_Keyword/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/TeacherTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Varargs/AddDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Varargs/AddTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/FibonacciAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/FibonacciDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/MultipleTableDule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PalindromeAssign.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PalindromeOrNotPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PrimeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PrimeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/ReverseANumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/SumOfDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/String_Demo/DateAndTime.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/JavaOperation/String_Demo/StringDemo1.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2VcdhyMKS8H8qE2Hf3BjOylHoZ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "G:/LEARN JAVA/JavaOperation",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "module"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\study\Java Pract\JavaOperation\out" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OOP.Class_Object" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Roney Khan.RONEY\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="" />
+      <created>1695139429122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695139429122</updated>
+      <workItem from="1695139431782" duration="2740000" />
+      <workItem from="1695568333695" duration="4962000" />
+      <workItem from="1695651257375" duration="14709000" />
+      <workItem from="1695744711267" duration="1717000" />
+      <workItem from="1695828812721" duration="6409000" />
+      <workItem from="1695961877732" duration="10971000" />
+      <workItem from="1696084300771" duration="11769000" />
+      <workItem from="1696182227481" duration="3176000" />
+      <workItem from="1696253489443" duration="9020000" />
+      <workItem from="1696344116067" duration="6057000" />
+      <workItem from="1696428016503" duration="6846000" />
+      <workItem from="1696685389449" duration="6798000" />
+      <workItem from="1696697375002" duration="2148000" />
+      <workItem from="1696775120454" duration="272000" />
+      <workItem from="1696775427787" duration="7089000" />
+      <workItem from="1696870351649" duration="1722000" />
+      <workItem from="1696949333781" duration="2478000" />
+      <workItem from="1696955101017" duration="3892000" />
+      <workItem from="1697036405295" duration="6260000" />
+      <workItem from="1697127591396" duration="3662000" />
+      <workItem from="1697201304588" duration="2734000" />
+      <workItem from="1697259689940" duration="2856000" />
+      <workItem from="1697382314608" duration="2748000" />
+      <workItem from="1697385653808" duration="875000" />
+      <workItem from="1697468960692" duration="4862000" />
+      <workItem from="1697474128073" duration="605000" />
+      <workItem from="1697639104234" duration="7324000" />
+      <workItem from="1697725546479" duration="5871000" />
+      <workItem from="1697740780772" duration="1150000" />
+      <workItem from="1697782000939" duration="1223000" />
+      <workItem from="1697807997097" duration="6346000" />
+      <workItem from="1697900488152" duration="4387000" />
+      <workItem from="1697984127012" duration="5703000" />
+      <workItem from="1697995387823" duration="625000" />
+      <workItem from="1698072985176" duration="5012000" />
+      <workItem from="1698122387115" duration="1879000" />
+      <workItem from="1698135418883" duration="1531000" />
+      <workItem from="1698157426129" duration="2442000" />
+      <workItem from="1698241980344" duration="1840000" />
+      <workItem from="1698338157786" duration="695000" />
+      <workItem from="1698586138811" duration="8576000" />
+      <workItem from="1698764944670" duration="4736000" />
+      <workItem from="1698775134378" duration="562000" />
+      <workItem from="1698860897476" duration="1721000" />
+      <workItem from="1699196426712" duration="6331000" />
+      <workItem from="1699206446627" duration="387000" />
+      <workItem from="1699208209610" duration="1604000" />
+      <workItem from="1699210060781" duration="210000" />
+      <workItem from="1699210364606" duration="47000" />
+    </task>
+    <task id="LOCAL-00001" summary="new tutorial">
+      <created>1695576669414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695576669414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new tutorial">
+      <created>1695577172751</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695577172751</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new tutorial">
+      <created>1695577198987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695577198987</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new tutorial">
+      <created>1695577408432</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695577408440</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new tutorial">
+      <created>1695651602080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695651602080</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tutorial Practice">
+      <created>1695651776231</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695651776231</updated>
+    </task>
+    <task id="LOCAL-00007" summary="new update">
+      <created>1695660135721</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695660135721</updated>
+    </task>
+    <task id="LOCAL-00008" summary="26.9.23 new update">
+      <created>1695742663164</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695742663164</updated>
+    </task>
+    <task id="LOCAL-00009" summary="26.9.23 new update">
+      <created>1695744188785</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695744188785</updated>
+    </task>
+    <task id="LOCAL-00010" summary="26.9.23 new update">
+      <created>1695839893298</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1695839893298</updated>
+    </task>
+    <task id="LOCAL-00011" summary="29.9.23 new update">
+      <created>1696007909233</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696007909233</updated>
+    </task>
+    <task id="LOCAL-00012" summary="30.9.23 new update">
+      <created>1696092880464</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696092880465</updated>
+    </task>
+    <task id="LOCAL-00013" summary="30.9.23 new update">
+      <created>1696099066888</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696099066888</updated>
+    </task>
+    <task id="LOCAL-00014" summary="30.9.23 new update">
+      <created>1696188153104</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1696188153104</updated>
+    </task>
+    <task id="LOCAL-00015" summary="1.10.23 new update">
+      <created>1696354126406</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1696354126406</updated>
+    </task>
+    <task id="LOCAL-00016" summary="1.10.23 new update">
+      <created>1696435003437</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1696435003437</updated>
+    </task>
+    <task id="LOCAL-00017" summary="8.10.23 new update">
+      <created>1696785969171</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696785969171</updated>
+    </task>
+    <task id="LOCAL-00018" summary="11.10.23 new update">
+      <created>1697046675565</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1697046675565</updated>
+    </task>
+    <task id="LOCAL-00019" summary="15.10.23 new update">
+      <created>1697389050168</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1697389050168</updated>
+    </task>
+    <task id="LOCAL-00020" summary="15.10.23 new update">
+      <created>1697473647129</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1697473647130</updated>
+    </task>
+    <task id="LOCAL-00021" summary="18.10.23 new update">
+      <created>1697646372195</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1697646372195</updated>
+    </task>
+    <task id="LOCAL-00022" summary="21.10.23 new update">
+      <created>1697910959072</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1697910959072</updated>
+    </task>
+    <task id="LOCAL-00023" summary="22.10.23 new update">
+      <created>1697990309553</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1697990309553</updated>
+    </task>
+    <task id="LOCAL-00024" summary="24.10.23 new update">
+      <created>1698135467753</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1698135467753</updated>
+    </task>
+    <task id="LOCAL-00025" summary="26.10.23 new update">
+      <created>1698586261961</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1698586261961</updated>
+    </task>
+    <task id="LOCAL-00026" summary="30.10.23 new update">
+      <created>1698604301023</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1698604301023</updated>
+    </task>
+    <task id="LOCAL-00027" summary="31.10.23 new update">
+      <created>1698773675010</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1698773675010</updated>
+    </task>
+    <task id="LOCAL-00028" summary="31.10.23 new update">
+      <created>1698775612823</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1698775612823</updated>
+    </task>
+    <task id="LOCAL-00029" summary="5.11.23 new update">
+      <created>1699206335756</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1699206335759</updated>
+    </task>
+    <task id="LOCAL-00030" summary="5.11.23 new update">
+      <created>1699206508448</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1699206508448</updated>
+    </task>
+    <task id="LOCAL-00031" summary="5.11.23 new update">
+      <created>1699207759825</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1699207759825</updated>
+    </task>
+    <task id="LOCAL-00032" summary="5.11.23 new update">
+      <created>1699207970133</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1699207970133</updated>
+    </task>
+    <task id="LOCAL-00033" summary="5.11.23 new update">
+      <created>1699207977287</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1699207977287</updated>
+    </task>
+    <task id="LOCAL-00034" summary="5.11.23 new update">
+      <created>1699208064767</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1699208064767</updated>
+    </task>
+    <task id="LOCAL-00035" summary="5.11.23 new update">
+      <created>1699208360718</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1699208360718</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <MESSAGE value="new tutorial" />
+    <MESSAGE value="Tutorial Practice" />
+    <MESSAGE value="new update" />
+    <MESSAGE value="26.9.23 new update" />
+    <MESSAGE value="29.9.23 new update" />
+    <MESSAGE value="30.9.23 new update" />
+    <MESSAGE value="1.10.23 new update" />
+    <MESSAGE value="8.10.23 new update" />
+    <MESSAGE value="11.10.23 new update" />
+    <MESSAGE value="15.10.23 new update" />
+    <MESSAGE value="18.10.23 new update" />
+    <MESSAGE value="21.10.23 new update" />
+    <MESSAGE value="22.10.23 new update" />
+    <MESSAGE value="24.10.23 new update" />
+    <MESSAGE value="26.10.23 new update" />
+    <MESSAGE value="30.10.23 new update" />
+    <MESSAGE value="31.10.23 new update" />
+    <MESSAGE value="5.11.23 new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="5.11.23 new update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
