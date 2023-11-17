@@ -1,4 +1,4 @@
-package OOP.Inheritance;
+package OOP_JAVA.Inheritance.Practice;
 
 public class Person {
     String name;

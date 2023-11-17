@@ -1,4 +1,4 @@
-package OOP.Encapsulation;
+package OOP_JAVA.Encapsulation;
 
 public class Person {
 

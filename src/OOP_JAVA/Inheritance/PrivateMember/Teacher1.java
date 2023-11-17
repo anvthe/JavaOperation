@@ -1,4 +1,4 @@
-package OOP.Inheritance.PrivateMember;
+package OOP_JAVA.Inheritance.PrivateMember;
 
 public class Teacher1 extends Person1 {
     private String qualification;

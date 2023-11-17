@@ -1,4 +1,4 @@
-package OOP;
+package OOP.Debug;
 
 public class DebugDemo {
     public static void main(String[] args) {

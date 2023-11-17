@@ -1,4 +1,4 @@
-package OOP.Inheritance;
+package OOP_JAVA.Inheritance.Practice;
 
 public class Teacher extends Person{
     //name,age,dispalyInformation1

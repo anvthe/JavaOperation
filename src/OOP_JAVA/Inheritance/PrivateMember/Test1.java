@@ -1,4 +1,4 @@
-package OOP.Inheritance.PrivateMember;
+package OOP_JAVA.Inheritance.PrivateMember;
 
 public class Test1 {
     public static void main(String[] args) {
