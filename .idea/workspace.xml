@@ -4,127 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="5.11.23 new update">
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/Array_Demo/Array1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ArithmeticDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/AssignmentDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/BitwiseOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/BreakDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/CallCenterAssign9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/CapitalSmall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/CircleDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ConditionalDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Datatype.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/DigitSpelling2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/DigitSpellingAssig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/DoWhileLoopDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/EvenOddNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/FactorialNumAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ForLoopAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/ForLoopDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/IncrementDecrement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/InputDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/InstallmentCalclution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/JavaLoverAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/LOOP1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/LeapYear.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/LogicalANDAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Love.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/MathClassDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/MaxMinChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/MultipleDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/OddNumAddtionAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/PositiveDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Product.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Serise1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/Serise2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/TemperatureDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/TemperatureDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/TriangleDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/UnaryDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/UpperLowerCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/VoterChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/VowelConsonantCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/VowelConsonantDemo2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/BeginnerJava/WhileLoopDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByReferenceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/CallByValuAndReference/CallByValurTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Class_Object_Method/School.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Class_Object_Method/SchoolTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/Constructor_Overloding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Constructor/Teacher_Overloding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/DebugDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Encapsulation/EncapsulationTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Encapsulation/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Factorial/RecursionDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Factorial/RecursionDemoTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/PrivateMember/Person1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/PrivateMember/Teacher1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/PrivateMember/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Inheritance/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/MathClass/MathDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overloading/MethodOverload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overloading/OverloadTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/MethodOverriding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey3/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey3/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey3/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey_Method/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey_Method/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/SuperKey_Method/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Super_Keyword/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Super_Keyword/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Super_Keyword/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Method_Overriding/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/ProblemSolving1/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/ProblemSolving1/BoxVolume.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Returning_Value_Method/ReturnTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Returning_Value_Method/ReturningValueDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Block/StaticBlock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/CareTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/StudentTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/StudentTest_StaticVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Keyword/Student_StaticVariable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Method/StaticMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Static_Method/StaticMethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Super_Keyword/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Super_Keyword/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Super_Keyword/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/TeacherTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Varargs/AddDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/Varargs/AddTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/OOP/instanceof_Operator/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/ProblemSlovingHackerRank/Solution5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/FibonacciAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/FibonacciDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/MultipleTableDule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PalindromeAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PalindromeOrNotPalindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PrimeDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/PrimeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/ReverseANumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/SecondVersion/SumOfDigits.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/String_Demo/DateAndTime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/JavaOperation/String_Demo/StringDemo1.class" beforeDir="false" />
+    <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="17.11.23 new update">
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Interface/IN1/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Interface/IN1/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Interface/IN1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Interface/IN2/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Interface/IN2/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Interface/IN2/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Interface/IN2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Package/Animal_1_BuiltINPackage/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Package/Animal_1_BuiltINPackage/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Package/Animal_2_UserDefinePackage/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Package/Animal_2_UserDefinePackage/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/DebugDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Encapsulation/EncapsulationTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Encapsulation/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Inheritance/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Inheritance/PrivateMember/Person1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Inheritance/PrivateMember/Teacher1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Inheritance/PrivateMember/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Inheritance/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Inheritance/Teacher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Inheritance/Test.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,6 +36,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -154,29 +57,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
-    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
-    "WebServerToolWindowPanel.toolwindow.show.date": "false",
-    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false",
-    "last_opened_file_path": "G:/LEARN JAVA/JavaOperation",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/LEARN JAVA/JavaOperation&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\study\Java Pract\JavaOperation\out" />
@@ -245,6 +148,8 @@
       <workItem from="1699208209610" duration="1604000" />
       <workItem from="1699210060781" duration="210000" />
       <workItem from="1699210364606" duration="47000" />
+      <workItem from="1700318280977" duration="3340000" />
+      <workItem from="1700496666466" duration="3285000" />
     </task>
     <task id="LOCAL-00001" summary="new tutorial">
       <created>1695576669414</created>
