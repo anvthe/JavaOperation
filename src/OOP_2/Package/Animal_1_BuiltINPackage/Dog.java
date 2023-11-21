@@ -1,4 +1,4 @@
-package OOP_JAVA.Package.Animal_1_BuiltINPackage;
+package OOP_2.Package.Animal_1_BuiltINPackage;
 
 import java.util.Scanner;
 
