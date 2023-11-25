@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="22.11.23 new update">
-      <change afterPath="$PROJECT_DIR$/src/ProblemSlovingHackerRank/Solution6.java" afterDir="false" />
+    <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="13.11.23 new update">
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/Exception_Handling/ExceptionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,6 +133,8 @@
       <workItem from="1700572426313" duration="6575000" />
       <workItem from="1700667111440" duration="2213000" />
       <workItem from="1700760639400" duration="644000" />
+      <workItem from="1700836734680" duration="1318000" />
+      <workItem from="1700929382252" duration="3323000" />
     </task>
     <task id="LOCAL-00001" summary="new tutorial">
       <created>1695576669414</created>
@@ -393,7 +395,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700590676243</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="23.11.23 new update">
+      <created>1700836771756</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1700836771756</updated>
+    </task>
+    <task id="LOCAL-00039" summary="13.11.23 new update">
+      <created>1700836820443</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1700836820443</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -455,7 +471,9 @@
     <MESSAGE value="5.11.23 new update" />
     <MESSAGE value="21.11.23 new update" />
     <MESSAGE value="22.11.23 new update" />
-    <option name="LAST_COMMIT_MESSAGE" value="22.11.23 new update" />
+    <MESSAGE value="23.11.23 new update" />
+    <MESSAGE value="13.11.23 new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="13.11.23 new update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
