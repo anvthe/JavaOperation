@@ -1,4 +1,4 @@
-package OOP.ProblemSolving1;
+package OOP.ProblemSolving1_Instance;
 
 public class Box {
     double height,width,depth; //instance variable

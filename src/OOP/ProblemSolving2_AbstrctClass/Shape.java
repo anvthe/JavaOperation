@@ -1,4 +1,4 @@
-package OOP.ProblemSolving2;
+package OOP.ProblemSolving2_AbstrctClass;
 
 public abstract class Shape {
     double dim1,dim2;

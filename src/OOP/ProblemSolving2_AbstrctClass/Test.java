@@ -1,4 +1,4 @@
-package OOP.ProblemSolving2;
+package OOP.ProblemSolving2_AbstrctClass;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOP.ProblemSolving2;
+package OOP.ProblemSolving2_AbstrctClass;
 
 public class Triangle extends Shape{
     Triangle(double dim1, double dim2) {

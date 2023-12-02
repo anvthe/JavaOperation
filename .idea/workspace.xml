@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="26.11.23 new update">
+      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/ProblemSolving3_ExceptionHandling/ExceptionProblemDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/BeginnerJava/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving1/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving1/BoxVolume.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BeginnerJava/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeginnerJava/Decimal_Format.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving1/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving1_Instance/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving1/BoxVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving1_Instance/BoxVolume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +151,9 @@
       <workItem from="1700760639400" duration="644000" />
       <workItem from="1700836734680" duration="1318000" />
       <workItem from="1700929382252" duration="3356000" />
-      <workItem from="1701101014847" duration="55000" />
+      <workItem from="1701101014847" duration="1654000" />
+      <workItem from="1701182756437" duration="3751000" />
+      <workItem from="1701526605790" duration="1806000" />
     </task>
     <task id="LOCAL-00001" summary="new tutorial">
       <created>1695576669414</created>
@@ -416,7 +435,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700935664700</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="26.11.23 new update">
+      <created>1701101086168</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1701101086168</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,6 +516,11 @@
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OOP_JAVA/ProblemSolving3_ExceptionHandling/ExceptionProblemDemo.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

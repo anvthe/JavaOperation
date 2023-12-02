@@ -1,7 +1,4 @@
-package OOP.ProblemSolving2;
-
-import javax.swing.*;
-import java.util.Formatter;
+package OOP.ProblemSolving2_AbstrctClass;
 
 public class Circle extends Shape {
     Circle(double r){
