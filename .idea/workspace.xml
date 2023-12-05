@@ -4,25 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="26.11.23 new update">
-      <change afterPath="$PROJECT_DIR$/src/OOP_JAVA/ProblemSolving3_ExceptionHandling/ExceptionProblemDemo.java" afterDir="false" />
+    <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="02.12.23 new update">
+      <change afterPath="$PROJECT_DIR$/src/BeginnerJava/StringComparision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ToStringMethod/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/ToStringMethod/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/LinkedList/jgjh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/qwe.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/BeginnerJava/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving1/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving1/BoxVolume.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/ProblemSolving2/Triangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BeginnerJava/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BeginnerJava/Decimal_Format.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving1/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving1_Instance/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving1/BoxVolume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving1_Instance/BoxVolume.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OOP/ProblemSolving2/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/ProblemSolving2_AbstrctClass/Triangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +141,7 @@
       <workItem from="1700929382252" duration="3356000" />
       <workItem from="1701101014847" duration="1654000" />
       <workItem from="1701182756437" duration="3751000" />
-      <workItem from="1701526605790" duration="1806000" />
+      <workItem from="1701526605790" duration="4853000" />
     </task>
     <task id="LOCAL-00001" summary="new tutorial">
       <created>1695576669414</created>
@@ -442,7 +430,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701101086168</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="02.12.23 new update">
+      <created>1701530033856</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1701530033856</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,7 +502,8 @@
     <MESSAGE value="23.11.23 new update" />
     <MESSAGE value="13.11.23 new update" />
     <MESSAGE value="26.11.23 new update" />
-    <option name="LAST_COMMIT_MESSAGE" value="26.11.23 new update" />
+    <MESSAGE value="02.12.23 new update" />
+    <option name="LAST_COMMIT_MESSAGE" value="02.12.23 new update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
