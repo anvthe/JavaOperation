@@ -5,12 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0579bd66-3a8e-4e01-9a5b-003ae1c0c47c" name="Changes" comment="02.12.23 new update">
-      <change afterPath="$PROJECT_DIR$/src/BeginnerJava/StringComparision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/ToStringMethod/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/ToStringMethod/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_3/LinkedList/jgjh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP_3/qwe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/HashMap/HashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/HashSet/HashSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/LinkedList/Part_1/LinkedListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/LinkedList/Part_2/LinkedListDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/StudentList/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP_3/StudentList/StudentListDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaOperation/OOP/Static_Keyword/CareTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP/Static_Keyword/CareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP/Static_Keyword/CarTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_3/LinkedList/jgjh.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_3/qwe.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +74,9 @@
       <recent name="G:\study\Java Pract\JavaOperation\out" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="OOP_3.Student" />
+      <recent name="OOP_3.LinkedList.Part_1" />
+      <recent name="OOP_3.LinkedList.Part_2" />
       <recent name="OOP.Class_Object" />
     </key>
   </component>
@@ -142,6 +150,9 @@
       <workItem from="1701101014847" duration="1654000" />
       <workItem from="1701182756437" duration="3751000" />
       <workItem from="1701526605790" duration="4853000" />
+      <workItem from="1701791457899" duration="4957000" />
+      <workItem from="1701876211004" duration="3195000" />
+      <workItem from="1701958681842" duration="4525000" />
     </task>
     <task id="LOCAL-00001" summary="new tutorial">
       <created>1695576669414</created>
@@ -437,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1701530033856</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="02.12.23 new update">
+      <created>1701791575587</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1701791575587</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
